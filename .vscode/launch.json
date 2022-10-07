@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringpjiApplication<springpji>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "park.jain.springpji.SpringpjiApplication",
+      "projectName": "springpji",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
